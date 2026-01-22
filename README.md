@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [twidgets](https://github.com/IceWizard7/terminal-widgets)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Java** (for University)
 
 - 👯 I’m looking to collaborate on [Python Webuntis API](https://github.com/python-webuntis/python-webuntis)
 
