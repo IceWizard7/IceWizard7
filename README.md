@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm IceWizard7</h1>
 <h3 align="center">A student from Austria</h3>
 
-- 🔭 I’m currently working on [twidgets](https://github.com/IceWizard7/terminal-widgets)
+- 🔭 I’m currently working on [Python Untis API](https://github.com/IceWizard7/untis) & [C++ Untis API](https://github.com/IceWizard7/untis-cpp).
 
-- 🌱 I’m currently learning **Java** (for University)
+- 🌱 I’m currently learning **Java** (for University) & **C++** (for fun and Austrian Informatics Olympiad).
 
-- 👯 I’m looking to collaborate on [Python Webuntis API](https://github.com/python-webuntis/python-webuntis)
+- 👯 I’m looking to work on another Minecraft CPU, similar to [Frostbyte](https://github.com/IceWizard7/frostbyte-cpu)
 
 - 👨‍💻 All of my projects are available at [https://github.com/IceWizard7/](https://github.com/IceWizard7/)
 
