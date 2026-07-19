@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Python Untis API](https://github.com/IceWizard7/untis) & [C++ Untis API](https://github.com/IceWizard7/untis-cpp).
 
-- 🌱 I’m currently learning **Java** (for University) & **C++** (for fun and Austrian Informatics Olympiad).
+- 🌱 I’m currently learning **C++** (for fun & Austrian Informatics Olympiad).
 
 - 👯 I’m looking to work on another Minecraft CPU, similar to [Frostbyte](https://github.com/IceWizard7/frostbyte-cpu)
 
 - 👨‍💻 All of my projects are available at [https://github.com/IceWizard7/](https://github.com/IceWizard7/)
 
-- 💬 Ask me about **Python 🐍**
+- 💬 Ask me about **C++**
 
-- ⚡ Fun fact **I spend more time playing with code than I probably should... and I love it!**
+- ⚡ Fun fact **I somehow ended up doing university courses alongside school.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
