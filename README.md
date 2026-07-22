@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm IceWizard7</h1>
 <h3 align="center">A student from Austria</h3>
 
-- 🔭 I’m currently working on [Python Untis API](https://github.com/IceWizard7/untis) & [C++ Untis API](https://github.com/IceWizard7/untis-cpp).
+- 🔭 I’m currently working on [simulation-orbit](https://github.com/IceWizard7/simulation-orbit) (as part of an Austrian **Abschließende Arbeit**).
 
 - 🌱 I’m currently learning **C++** (for fun & Austrian Informatics Olympiad).
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++**
 
-- ⚡ Fun fact **I somehow ended up doing university courses alongside school.**
+- ⚡ Fun fact **I somehow ended up doing university courses alongside school...** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
