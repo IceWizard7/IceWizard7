@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [simulation-orbit](https://github.com/IceWizard7/simulation-orbit) (as part of an Austrian **Abschließende Arbeit**).
 
-- 🌱 I’m currently learning **C++** (for fun & Austrian Informatics Olympiad).
+- 🌱 I’m currently learning **C/C++** (for university & [Austrian Informatics Olympiad](https://informatikolympiade.at/)).
 
 - 👯 I’m looking to work on another Minecraft CPU, similar to [Frostbyte](https://github.com/IceWizard7/frostbyte-cpu)
 
 - 👨‍💻 All of my projects are available at [https://github.com/IceWizard7/](https://github.com/IceWizard7/)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C**
 
 - ⚡ Fun fact **I somehow ended up doing university courses alongside school...** :)
 
